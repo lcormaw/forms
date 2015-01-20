@@ -84,6 +84,9 @@
 		<style>
 			.form-wrapper {
 				border: 1px solid #ccc;
+				background-color: #f8f8f8;
+				-webkit-border-radius: 5px;
+				-moz-border-radius: 5px;
 				border-radius: 5px;
 				padding: 1em;
 				margin-top: 15px;
